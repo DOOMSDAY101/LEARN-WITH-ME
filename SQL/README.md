@@ -8,6 +8,13 @@ In this directory, I focus on mastering SQL (Structured Query Language), a power
 
 SQL is the standard language used to communicate with relational databases. Whether it's retrieving data, inserting records, updating tables, or performing complex joins and aggregations, SQL provides a robust and efficient way to interact with structured data. By mastering SQL, I can effectively manage and manipulate databases to extract valuable insights and drive informed decision-making.
 
+## SQL Topics Covered
+
+- [Introduction to SQL](1-intro_to_sql.md)
+- [SQL Syntax](2-sql_syntax.md)
+- [SQL Create Database](3-sql-create-db.md)
+- [SQL Create Table](4-sql-create-table.md)
+
 ## Learning Objectives
 
 - **Querying Data**: Learn how to write SQL queries to retrieve, filter, and sort data from databases.
@@ -15,7 +22,7 @@ SQL is the standard language used to communicate with relational databases. Whet
 - **Data Manipulation**: Explore SQL commands for inserting, updating, and deleting records in tables.
 - **Advanced SQL**: Dive into advanced SQL topics such as joins, subqueries, aggregate functions, and stored procedures.
 - **Performance Optimization**: Learn techniques for optimizing SQL queries and improving database performance.
-- **PRACTICE**: Practice what I have learnt so far 
+- **PRACTICE**: Practice what I have learnt so far
 
 ## Practice with Node.js
 
@@ -27,5 +34,9 @@ To get started with SQL Mastery, explore the contents of this directory and dive
 
 Feel free to open issues, ask questions, or provide feedback if you have any suggestions or improvements. Let's embark on this journey of mastering SQL together and unlock the full potential of relational databases!
 
-Happy querying! 🚀
+## Credits
 
+- [W3schools](https://www.w3chools.com/sql)
+- [Tutorials Point](https://www.tutorialspoint.com/sql)
+
+Happy querying! 🚀
