@@ -4,7 +4,7 @@ In this section we are going to be learning about SQL **INSERT INTO** statement 
 
 #### what is SQL INSERT INTO Statement?<br>
 
-So now we have created our database and our Table, How do we input data into data into this tabe we just created... This is where the SQL **INSERT STATEMENT** comes in.
+So now we have created our database and our Table, How do we input data into data into this table we just created... This is where the SQL **INSERT STATEMENT** comes in.
 
 The SQL INSERT INTO is an SQL query used to input data our data int the table we've created.<br>
 It is used to add new rows of data into a table in the database.
