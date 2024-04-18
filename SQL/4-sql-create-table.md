@@ -38,7 +38,7 @@ var con = mysql.createConnection({
   host: "localhost",
   user: "yourusername",
   password: "yourpassword",
-  database: "mydb",
+  database: "testDB",
 });
 
 con.connect(function (err) {
@@ -47,7 +47,7 @@ con.connect(function (err) {
 
   //SQL QUERY
   var sql = `CREATE TABLE Persons   
-    PersonID int,
+    PersonID int AUTO_INCREMENT PRIMARY KEY,
     LastName varchar(255),
     FirstName varchar(255),
     Address varchar(255),
