@@ -10,10 +10,15 @@ SQL is the standard language used to communicate with relational databases. Whet
 
 ## SQL Topics Covered
 
-- [Introduction to SQL](1-intro_to_sql.md)
-- [SQL Syntax](2-sql_syntax.md)
-- [SQL Create Database](3-sql-create-db.md)
-- [SQL Create Table](4-sql-create-table.md)
+- [Introduction to SQL](./1-intro_to_sql.md)
+- [SQL Syntax](./2-sql_syntax.md)
+- [SQL Create Database](./3-sql-create-db.md)
+- [SQL Create Table](./4-sql-create-table.md)
+- [SQL Insert Into](./5-sql-insert-into.md)
+- [SQL Select From](./6-sql-select-from.md)
+- [SQL Update](./7-sql-update.md)
+- [SQL Alter Table](./8-sql-alter-table.md)
+- [SQL Join](./10-sql-join.md)
 
 ## Learning Objectives
 
