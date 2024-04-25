@@ -2,7 +2,7 @@
 
 In this section we are going to be learning about SQL **SELECT FROM** statement and how to use them.
 
-#### what is SQL SELECT FROM Statement?<br>
+#### What is SQL SELECT FROM Statement?<br>
 
 The SQL **SELECT** statement is used to fetch data from a database table.
 
@@ -34,7 +34,7 @@ con.connect(function (err) {
 });
 ```
 
-Th above code selects all the columns in the table.
+The above code selects all the columns in the table.
 
 Save the code above in a file called "sql-select-from.js" and run the file:
 
