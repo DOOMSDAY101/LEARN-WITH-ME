@@ -44,4 +44,4 @@ Feel free to open issues, ask questions, or provide feedback if you have any sug
 - [W3schools](https://www.w3chools.com/sql)
 - [Tutorials Point](https://www.tutorialspoint.com/sql)
 
-Happy querying! 🚀
+Happy querying! 🚀👨‍💻
